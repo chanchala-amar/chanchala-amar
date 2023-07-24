@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanchala-amar
 - 👀 I’m interested in web, frontend technologies
-- 🌱 I’m currently learning vue, javascript, nodeJS, express, typescript
+- 🌱 I’m working on vue, javascript, nodeJS, express, typescript and other frontend technologies
 - 💞️ I’m looking to collaborate on interesting vueJS projects
 - 📫 How to reach me chanchala.amar @ gmail
 
